@@ -46,3 +46,4 @@ RETURN
 6. Background info for Fine Gael: https://en.wikipedia.org/wiki/Fine_Gael
 7. Background info for Fianna Fail: https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 8. Background info for Labour: https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
+9. All ideas for the interesting queries came about from conversing with 2 of my classmates (G00310769, G00314495) over our respective databases
